@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}{% include 03-links.md %}
+{% include 02-image.md %}sneaky sneaky{% include 03-links.md %}
 
 <br>
 
